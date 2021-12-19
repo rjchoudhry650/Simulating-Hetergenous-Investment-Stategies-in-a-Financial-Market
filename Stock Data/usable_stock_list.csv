@@ -1,0 +1,2278 @@
+,Symbol,Sector
+0,CSGP,Finance
+1,NVEC,Technology
+2,LWAY,Consumer Non-Durables
+3,ELYS,Consumer Services
+4,EPIX,
+5,CCNC,
+6,GAIA,Capital Goods
+7,SPPI,Health Care
+8,IDCC,Public Utilities
+9,DMTK,Health Care
+10,ENTA,Health Care
+11,ANIX,Health Care
+12,ICFI,Consumer Services
+13,CONN,Consumer Services
+14,LUMO,Health Care
+15,RMCF,Consumer Non-Durables
+16,DXCM,Health Care
+17,WLDN,Consumer Services
+18,BRID,Consumer Non-Durables
+19,HIBB,Consumer Services
+20,HRTX,Consumer Durables
+21,BRKL,Finance
+22,LOPE,Miscellaneous
+23,GLMD,Health Care
+24,MINM,Consumer Services
+25,EXPD,Transportation
+26,HOLX,Health Care
+27,IQ,Technology
+28,CLRB,Health Care
+29,SSYS,Technology
+30,KZIA,Health Care
+31,CGBD,Finance
+32,VERU,Health Care
+33,TTSH,Consumer Services
+34,TXN,Technology
+35,XNCR,Health Care
+36,ASRT,Health Care
+37,VRSK,Miscellaneous
+38,VERB,Technology
+39,JSM,Finance
+40,STRR,Health Care
+41,CNFR,Finance
+42,OSPN,Technology
+43,WABC,Finance
+44,CHSCL,Consumer Non-Durables
+45,NKSH,Finance
+46,TOPS,Transportation
+47,ZSAN,Health Care
+48,CLDX,Health Care
+49,DRNA,Health Care
+50,FMAO,Finance
+51,CEMI,Health Care
+52,QUMU,Technology
+53,MOR,Health Care
+54,POAI,Health Care
+55,NNBR,
+56,CRMD,Health Care
+57,ATLC,Finance
+58,MELI,Consumer Services
+59,NUWE,Health Care
+60,KVHI,Technology
+61,DWSN,Energy
+62,OMAB,Transportation
+63,NUVA,Health Care
+64,FTNT,Miscellaneous
+65,VBNK,
+66,GERN,Health Care
+67,VBLT,Health Care
+68,AMCX,Consumer Services
+69,BATRK,Consumer Services
+70,MYSZ,Technology
+71,GIII,Consumer Services
+72,BPOPN,Finance
+73,AXTI,Technology
+74,FSV,
+75,HSDT,Health Care
+76,CHSCM,Consumer Non-Durables
+77,STRS,Consumer Services
+78,FFIN,Finance
+79,SAIA,Transportation
+80,CBSH,Finance
+81,ONB,Finance
+82,CBRL,Consumer Services
+83,SFNC,Finance
+84,QLYS,Technology
+85,PMCB,Health Care
+86,ADSK,Technology
+87,JBSS,Consumer Non-Durables
+88,URBN,Consumer Services
+89,DIOD,Technology
+90,CUE,Health Care
+91,VOD,Public Utilities
+92,LSCC,Technology
+93,EXPE,Transportation
+94,AVCO,Health Care
+95,ESBK,Finance
+96,PCAR,Capital Goods
+97,DHCNI,Consumer Services
+98,MPAA,Capital Goods
+99,AGNC,Consumer Services
+100,WDC,Technology
+101,NTIC,Basic Industries
+102,TPIC,Technology
+103,NDLS,Consumer Services
+104,RCMT,Consumer Services
+105,MDRX,Technology
+106,FGBI,Finance
+107,LLNW,
+108,PYPL,Miscellaneous
+109,FNHC,Finance
+110,ALPN,Health Care
+111,PEBO,Finance
+112,AEZS,
+113,FNKO,Consumer Non-Durables
+114,JACK,Consumer Services
+115,HGBL,Finance
+116,RUN,Capital Goods
+117,CATY,Finance
+118,KEQU,Capital Goods
+119,KERN,Health Care
+120,HELE,Miscellaneous
+121,IFMK,Consumer Services
+122,CTLP,Technology
+123,HBIO,Capital Goods
+124,BIDU,Technology
+125,NVIV,Health Care
+126,LGO,
+127,NMRK,Finance
+128,TIPT,Finance
+129,NVFY,Consumer Durables
+130,ALKS,Health Care
+131,SRDX,Health Care
+132,MOTS,Health Care
+133,VCEL,Health Care
+134,DSGX,
+135,PLPC,Basic Industries
+136,CDEV,Energy
+137,ARAV,Health Care
+138,SRGA,Health Care
+139,PWFL,Capital Goods
+140,LEE,Consumer Services
+141,SEED,
+142,PINC,Health Care
+143,CSGS,Technology
+144,MDGL,Health Care
+145,COUP,Technology
+146,DCOM,Finance
+147,EIGR,Health Care
+148,ORMP,Health Care
+149,PLL,Basic Industries
+150,ALRS,Finance
+151,SWBI,Consumer Non-Durables
+152,EBAY,Consumer Services
+153,CHKP,Technology
+154,GTIM,Consumer Services
+155,PIXY,Technology
+156,PENN,Consumer Services
+157,SBUX,
+158,LPSN,Technology
+159,MMYT,Technology
+160,ARTW,Capital Goods
+161,HUSN,Consumer Services
+162,APLS,Health Care
+163,CVLG,Transportation
+164,BLBD,Capital Goods
+165,SIGA,Health Care
+166,SMPL,Consumer Non-Durables
+167,GRFS,Health Care
+168,INTU,Technology
+169,MNKD,Health Care
+170,UBFO,Finance
+171,HA,Transportation
+172,OBT,Finance
+173,LASR,Technology
+174,GLAD,Finance
+175,PTNR,Public Utilities
+176,KDMN,Health Care
+177,FGF,Finance
+178,MRUS,Health Care
+179,STFC,Finance
+180,RILY,Finance
+181,ADES,Basic Industries
+182,EQBK,Finance
+183,CHSCO,Consumer Non-Durables
+184,HMNF,Finance
+185,CYRN,Technology
+186,MNSB,Finance
+187,PXLW,Technology
+188,IPGP,Technology
+189,IBTX,Finance
+190,CLFD,Public Utilities
+191,NEPH,Health Care
+192,SFM,Consumer Non-Durables
+193,CIZN,Finance
+194,ECPG,
+195,CROX,Consumer Non-Durables
+196,STKS,Consumer Services
+197,LTRX,Capital Goods
+198,LFMD,Miscellaneous
+199,SHYF,Capital Goods
+200,CAC,Finance
+201,DENN,Consumer Services
+202,GLYC,Health Care
+203,NESR,Finance
+204,ATNI,Public Utilities
+205,RNDB,Finance
+206,CRON,
+207,UPLD,Technology
+208,SGH,Technology
+209,ATOM,Technology
+210,PALT,Technology
+211,NERV,Health Care
+212,ODFL,Transportation
+213,BPOPM,Finance
+214,RIOT,Technology
+215,AHPI,Health Care
+216,FMNB,Finance
+217,RGCO,Public Utilities
+218,SLMBP,Finance
+219,CHSCN,Consumer Non-Durables
+220,PAAS,
+221,CYRX,
+222,MNST,Consumer Non-Durables
+223,WVVI,Consumer Non-Durables
+224,CRTD,Consumer Services
+225,AMZN,Consumer Services
+226,CEVA,Technology
+227,VRRM,
+228,PAVM,Health Care
+229,ESLT,Capital Goods
+230,PCOM,
+231,ASRV,Finance
+232,IRIX,Health Care
+233,LFVN,Consumer Non-Durables
+234,CRVL,Finance
+235,FITBI,Finance
+236,INTC,Technology
+237,IBCP,Finance
+238,ANY,
+239,SAFM,
+240,KOPN,Capital Goods
+241,HONE,Finance
+242,SFBC,Finance
+243,CLSD,Health Care
+244,PTCT,Health Care
+245,PDFS,Technology
+246,ATXS,Health Care
+247,LKFN,Finance
+248,BPRN,Finance
+249,LUNA,Health Care
+250,SRRA,Health Care
+251,UTMD,Health Care
+252,VSTM,Health Care
+253,BKEP,Energy
+254,NXST,Consumer Services
+255,OPBK,Finance
+256,RCAT,Technology
+257,IOSP,Basic Industries
+258,AIMC,Capital Goods
+259,HIMX,Technology
+260,XXII,
+261,CFFN,Finance
+262,TRIB,Health Care
+263,RVNC,Health Care
+264,AWRE,Technology
+265,ITI,Capital Goods
+266,ISTR,Finance
+267,SUMR,Capital Goods
+268,SGRY,Health Care
+269,ARLP,Energy
+270,PETV,Health Care
+271,RFIL,Capital Goods
+272,HLIT,Technology
+273,COWN,Finance
+274,CHRS,Health Care
+275,WILC,Consumer Non-Durables
+276,PPBT,Health Care
+277,HIVE,
+278,CZNC,Finance
+279,ENLV,Health Care
+280,NVDA,Technology
+281,BIIB,Health Care
+282,TREE,Finance
+283,CHRW,Transportation
+284,RMTI,Health Care
+285,NVEE,Consumer Services
+286,MCBC,Finance
+287,MMLP,Energy
+288,FRBA,Finance
+289,VTGN,Health Care
+290,CJJD,Consumer Durables
+291,SLNO,Health Care
+292,IDXX,Health Care
+293,HEAR,Consumer Non-Durables
+294,BFC,Finance
+295,FIXX,Health Care
+296,CFRX,Health Care
+297,KOR,
+298,BRQS,
+299,CCNE,Finance
+300,SPSC,Technology
+301,APVO,Health Care
+302,LGIH,Capital Goods
+303,YNDX,Technology
+304,PRTH,Technology
+305,VVPR,
+306,FBIZ,Finance
+307,ZUMZ,
+308,COMS,Consumer Services
+309,ENTG,Technology
+310,ELOX,Health Care
+311,CTXR,Health Care
+312,BBBY,Consumer Services
+313,BLMN,Consumer Services
+314,TYME,Health Care
+315,RMBS,Technology
+316,EXC,Public Utilities
+317,IZEA,Technology
+318,UFPT,Capital Goods
+319,LPRO,Finance
+320,AGMH,Technology
+321,TWOU,Miscellaneous
+322,SYBT,Finance
+323,WSFS,Finance
+324,HOLI,Capital Goods
+325,INTG,Consumer Services
+326,SVFD,
+327,SHOO,Consumer Non-Durables
+328,STRT,Capital Goods
+329,CRUS,Technology
+330,GBLI,Finance
+331,GLBZ,Finance
+332,TTEC,Technology
+333,ESXB,Finance
+334,EZPW,Miscellaneous
+335,IPDN,Technology
+336,DLHC,Miscellaneous
+337,FCCY,Finance
+338,KMPH,Health Care
+339,AWH,Health Care
+340,CRESY,Finance
+341,HSIC,Health Care
+342,INCY,Health Care
+343,RGLD,
+344,FATE,Health Care
+345,CENT,
+346,AAWW,Transportation
+347,LBRDA,Consumer Services
+348,SVRA,Health Care
+349,RGLS,Health Care
+350,AZN,Health Care
+351,INBK,Finance
+352,OMCL,Health Care
+353,ACOR,Health Care
+354,CRMT,Consumer Services
+355,ZIONL,Finance
+356,RETA,Health Care
+357,NBTB,Finance
+358,CUEN,Technology
+359,CECE,Capital Goods
+360,FCAP,Finance
+361,SSBI,Finance
+362,VISL,Capital Goods
+363,TCFC,Finance
+364,CME,Finance
+365,FCCO,Finance
+366,LTRPA,
+367,JRVR,Finance
+368,MYGN,Health Care
+369,SHBI,Finance
+370,MNDO,Technology
+371,MBRX,Health Care
+372,PSHG,Transportation
+373,FFHL,Capital Goods
+374,MRVL,Technology
+375,RBCAA,Finance
+376,ALT,Health Care
+377,NUAN,Technology
+378,AVAV,Capital Goods
+379,OCC,Basic Industries
+380,FONR,Health Care
+381,CTG,Technology
+382,VLY,Finance
+383,IRDM,Consumer Services
+384,THMO,Capital Goods
+385,HOVNP,Capital Goods
+386,HWKN,Basic Industries
+387,CSPI,Technology
+388,TESS,Capital Goods
+389,CMCSA,Consumer Services
+390,CVLT,Technology
+391,HURN,Consumer Services
+392,EGRX,Health Care
+393,CSSE,Consumer Services
+394,USIO,Technology
+395,MANT,Technology
+396,ICHR,Technology
+397,FPAY,Consumer Services
+398,CCXI,Health Care
+399,CTXS,Technology
+400,WHF,Finance
+401,RZLT,Health Care
+402,SYNA,Technology
+403,BEEM,Technology
+404,ROCC,Energy
+405,TRIP,
+406,PETS,Health Care
+407,SEIC,Finance
+408,MTLS,Technology
+409,ICPT,Health Care
+410,TRHC,Health Care
+411,DISCK,Consumer Services
+412,SBCF,Finance
+413,NFBK,Finance
+414,TBBK,Finance
+415,VXRT,Health Care
+416,ROLL,Capital Goods
+417,FIVE,Consumer Services
+418,CCBG,Finance
+419,FLIC,Finance
+420,ANSS,Technology
+421,MSFT,Technology
+422,BGFV,Consumer Services
+423,JAZZ,Health Care
+424,CTAS,Miscellaneous
+425,MSEX,Public Utilities
+426,SBLK,Transportation
+427,ALGT,Transportation
+428,ALDX,Health Care
+429,PETQ,Health Care
+430,PRTK,Health Care
+431,HROW,Health Care
+432,CSII,Health Care
+433,DXLG,Consumer Services
+434,OKTA,Technology
+435,LNTH,Health Care
+436,OPCH,Health Care
+437,CACC,Finance
+438,CVCY,Finance
+439,AKTS,Public Utilities
+440,GLG,Technology
+441,PECO,Consumer Services
+442,DVAX,Health Care
+443,EVK,Consumer Non-Durables
+444,NTES,Miscellaneous
+445,CFFI,Finance
+446,PEBK,Finance
+447,JOBS,Technology
+448,ZEST,Energy
+449,GTHX,Health Care
+450,QCRH,Finance
+451,CHDN,Consumer Services
+452,WLFC,Capital Goods
+453,PROV,Finance
+454,WRLD,Finance
+455,YELL,Transportation
+456,AUPH,
+457,HVBC,Finance
+458,PDEX,Health Care
+459,FVCB,Finance
+460,GPRE,Basic Industries
+461,OTTR,Public Utilities
+462,ZVO,Miscellaneous
+463,FANH,Finance
+464,OCUL,Health Care
+465,OXBR,Finance
+466,PFSW,Miscellaneous
+467,CPLP,Transportation
+468,VRSN,Technology
+469,IBOC,Finance
+470,FGFPP,Finance
+471,PCYG,Technology
+472,MRBK,Finance
+473,THTX,
+474,NLTX,Health Care
+475,RIBT,Consumer Non-Durables
+476,LOGI,Technology
+477,PDSB,Health Care
+478,AMAT,Capital Goods
+479,LAKE,
+480,RGNX,Health Care
+481,PANL,Transportation
+482,KTRA,Health Care
+483,VLYPP,Finance
+484,CELH,Consumer Non-Durables
+485,LHCG,Health Care
+486,NWLI,Finance
+487,PFIN,Capital Goods
+488,CWST,Public Utilities
+489,GRPN,Technology
+490,CAR,Miscellaneous
+491,TAST,Consumer Services
+492,SOHOO,Consumer Services
+493,UBSI,Finance
+494,ZIONO,Finance
+495,ACNB,Finance
+496,ATNX,Health Care
+497,MRCY,
+498,BMRN,Health Care
+499,HCCI,Public Utilities
+500,FBIOP,Health Care
+501,LTRPB,
+502,NYMT,Consumer Services
+503,LMRK,Consumer Services
+504,AUB,Finance
+505,PVBC,Finance
+506,LFUS,Technology
+507,STRA,Miscellaneous
+508,ATVI,Technology
+509,PTMN,Finance
+510,EA,Technology
+511,MGLN,Health Care
+512,CETX,Technology
+513,FCUV,Capital Goods
+514,SOHO,Consumer Services
+515,KOSS,Consumer Non-Durables
+516,OFED,Finance
+517,PAYS,Finance
+518,NISN,Capital Goods
+519,XPER,Technology
+520,AMD,Technology
+521,MIME,Technology
+522,PSEC,Finance
+523,EMKR,Technology
+524,AACG,Miscellaneous
+525,POWW,Capital Goods
+526,GNUS,Consumer Services
+527,CALM,
+528,SIEN,Health Care
+529,RCON,Energy
+530,VTSI,Capital Goods
+531,RDHL,Health Care
+532,ERII,Technology
+533,SESN,Health Care
+534,KLAC,Capital Goods
+535,EYE,Health Care
+536,TIGO,Public Utilities
+537,CHEK,Health Care
+538,CVCO,Basic Industries
+539,NDAQ,Finance
+540,COLB,Finance
+541,ANIK,Health Care
+542,LIQT,Capital Goods
+543,NXPI,Technology
+544,KBAL,Consumer Durables
+545,LYTS,Consumer Durables
+546,TBNK,Finance
+547,FELE,Consumer Durables
+548,NAII,Consumer Non-Durables
+549,CMCO,Capital Goods
+550,FBIO,Health Care
+551,RBB,Finance
+552,SLAB,Technology
+553,SEDG,Technology
+554,CTBI,Finance
+555,MTCH,
+556,MTEX,Consumer Durables
+557,FLNT,Consumer Services
+558,FWONK,Consumer Services
+559,WLTW,Finance
+560,ULH,Transportation
+561,CCEP,Consumer Non-Durables
+562,ORGS,Health Care
+563,CORT,Health Care
+564,HUBG,Transportation
+565,CHTR,Consumer Services
+566,ABCB,Finance
+567,KDP,Consumer Non-Durables
+568,CASH,Finance
+569,TRMK,Finance
+570,RCRT,
+571,DARE,Health Care
+572,LNDC,Consumer Non-Durables
+573,NSPR,Health Care
+574,AGRX,Health Care
+575,BYFC,Finance
+576,IEA,Basic Industries
+577,CVGW,
+578,BNSO,Capital Goods
+579,EPZM,Health Care
+580,CHMG,Finance
+581,NOVT,
+582,PEGA,Technology
+583,SURF,Health Care
+584,PULM,Health Care
+585,TUSK,Energy
+586,CXDC,Consumer Non-Durables
+587,CCRN,Technology
+588,XSPA,Miscellaneous
+589,RCII,Technology
+590,CSWI,Basic Industries
+591,CSTR,Finance
+592,WBA,Health Care
+593,CSTE,Capital Goods
+594,ABVC,Health Care
+595,PFX,Finance
+596,SUPN,Health Care
+597,SNEX,Finance
+598,DAIO,Capital Goods
+599,AVGR,Health Care
+600,YTEN,
+601,GNPX,Health Care
+602,ESGR,Finance
+603,OEG,
+604,TOMZ,
+605,RBBN,Technology
+606,DLTH,Consumer Services
+607,AMRS,Basic Industries
+608,ODT,Health Care
+609,WHLRP,Consumer Services
+610,EDIT,Health Care
+611,LAUR,Miscellaneous
+612,TSRI,Technology
+613,SSSS,Finance
+614,DGII,Technology
+615,AY,Public Utilities
+616,VICR,Capital Goods
+617,VNET,Technology
+618,RGEN,Health Care
+619,DISH,Consumer Services
+620,NWFL,Finance
+621,QIWI,Miscellaneous
+622,GLRE,Finance
+623,NEXT,Energy
+624,VG,Public Utilities
+625,CLMT,Energy
+626,DOX,Technology
+627,EOLS,Consumer Durables
+628,SMMF,Finance
+629,ATEX,Consumer Services
+630,ZS,Technology
+631,SAVA,Health Care
+632,XELB,Basic Industries
+633,ASMB,Health Care
+634,ZD,Technology
+635,PCSB,Finance
+636,MEIP,Health Care
+637,UEPS,Technology
+638,CGC,
+639,ESSA,Finance
+640,LOAN,Consumer Services
+641,EVOK,Health Care
+642,ACIW,Technology
+643,VRNT,Technology
+644,NICE,Technology
+645,RWLK,Health Care
+646,OCGN,Health Care
+647,STCN,
+648,CYTO,Health Care
+649,WB,Technology
+650,MFH,Technology
+651,CBAY,Health Care
+652,VBFC,Finance
+653,CBAN,Finance
+654,VIVE,Health Care
+655,LJPC,Health Care
+656,STAF,Technology
+657,CLXT,Consumer Non-Durables
+658,CG,Finance
+659,GENC,Capital Goods
+660,WASH,Finance
+661,CBTX,Finance
+662,CYAN,Consumer Non-Durables
+663,HSTM,Miscellaneous
+664,HAIN,Capital Goods
+665,ASUR,Technology
+666,ULBI,Technology
+667,GWRS,Public Utilities
+668,INSG,Capital Goods
+669,SABR,Technology
+670,BSGM,Health Care
+671,VKTX,Health Care
+672,CSQ,Finance
+673,AKU,
+674,BOTJ,Finance
+675,COGT,Health Care
+676,ZEUS,Basic Industries
+677,PBLA,Health Care
+678,CODX,Health Care
+679,VALU,Technology
+680,VTVT,Health Care
+681,NATR,Health Care
+682,KRNY,Finance
+683,TURN,Finance
+684,BTB,
+685,WIRE,Basic Industries
+686,ALTR,Technology
+687,NXTP,Technology
+688,LMRKP,Consumer Services
+689,FGEN,Health Care
+690,APDN,Health Care
+691,RDCM,Technology
+692,ENSG,Health Care
+693,NTCT,Technology
+694,ZIOP,Health Care
+695,SINO,Transportation
+696,CDLX,Technology
+697,LNT,Public Utilities
+698,NDRA,Health Care
+699,HBMD,Finance
+700,IPA,
+701,CAPR,Health Care
+702,CASI,Health Care
+703,BKYI,Miscellaneous
+704,LEVL,
+705,VTNR,Energy
+706,FRGI,Consumer Services
+707,ALLT,Public Utilities
+708,FNWB,Finance
+709,WVE,Health Care
+710,PPC,Consumer Non-Durables
+711,IONM,Health Care
+712,ELSE,Capital Goods
+713,HLNE,Finance
+714,CSCO,Technology
+715,ANTE,Technology
+716,AIRT,Transportation
+717,GFED,Finance
+718,UFCS,Finance
+719,SBGI,Consumer Services
+720,TRNS,Technology
+721,KNDI,Capital Goods
+722,ISSC,Capital Goods
+723,ISRG,Health Care
+724,TROW,Finance
+725,UAL,Transportation
+726,AEIS,Consumer Durables
+727,FEIM,Capital Goods
+728,LECO,Capital Goods
+729,VCYT,Health Care
+730,VABK,Finance
+731,ORRF,Finance
+732,BLDP,
+733,OESX,Consumer Durables
+734,SPOK,Public Utilities
+735,LBTYK,Consumer Services
+736,CHCO,Finance
+737,ELDN,Health Care
+738,AMSC,Capital Goods
+739,MGEE,
+740,ASYS,Technology
+741,SCYX,Health Care
+742,SVC,Consumer Services
+743,INSE,
+744,BTAI,Health Care
+745,HAFC,Finance
+746,BFRA,Health Care
+747,ADTN,Capital Goods
+748,DRRX,Health Care
+749,OFLX,Capital Goods
+750,JNCE,Health Care
+751,JVA,Consumer Non-Durables
+752,NBIX,Health Care
+753,ASTC,Capital Goods
+754,VRTX,Health Care
+755,VYGR,Health Care
+756,WHLRD,Consumer Services
+757,WW,Miscellaneous
+758,GILD,Health Care
+759,GGAL,Finance
+760,SLM,Finance
+761,VS,
+762,MDB,Technology
+763,CHY,Finance
+764,LOOP,
+765,CLLS,Health Care
+766,VRAY,Health Care
+767,FCFS,Miscellaneous
+768,AMKR,Technology
+769,NYMTP,Consumer Services
+770,CREX,Technology
+771,TAYD,Capital Goods
+772,WSTG,Technology
+773,TATT,Capital Goods
+774,XELA,Technology
+775,ACIU,Health Care
+776,PFMT,Miscellaneous
+777,EQIX,Consumer Services
+778,TVTY,Health Care
+779,VRNA,Health Care
+780,DUOT,Technology
+781,ZG,Miscellaneous
+782,PCSA,Health Care
+783,QUIK,Technology
+784,GURE,Basic Industries
+785,MBOT,Health Care
+786,TVTX,Health Care
+787,MLCO,Consumer Services
+788,TER,Capital Goods
+789,PODD,Health Care
+790,SMBK,Finance
+791,IPAR,Consumer Non-Durables
+792,AXSM,Health Care
+793,SND,Energy
+794,FORM,Technology
+795,PAGP,Energy
+796,AMSWA,Technology
+797,TSCAP,Finance
+798,FUV,Consumer Non-Durables
+799,CPIX,Health Care
+800,SALM,Consumer Services
+801,QRVO,Capital Goods
+802,IRMD,Health Care
+803,GEOS,Capital Goods
+804,ATRS,Health Care
+805,REKR,Technology
+806,HBP,Capital Goods
+807,AVEO,Health Care
+808,HFBL,Finance
+809,MCRI,Consumer Services
+810,COFS,Finance
+811,ICLK,Technology
+812,FRPT,
+813,SWKS,Technology
+814,SGMO,Health Care
+815,RCKT,Health Care
+816,ZGNX,Health Care
+817,VCTR,Finance
+818,LPTH,Capital Goods
+819,FRSX,Technology
+820,PPSI,Consumer Durables
+821,TBPH,Health Care
+822,ITCI,Health Care
+823,ENPH,Capital Goods
+824,USAU,Basic Industries
+825,MHLD,Finance
+826,APEI,Miscellaneous
+827,OIIM,Technology
+828,NXTD,Consumer Services
+829,BPOP,Finance
+830,MARK,Consumer Services
+831,MCHP,Technology
+832,ICUI,Health Care
+833,ALCO,
+834,EYES,Health Care
+835,CDNS,Technology
+836,FUNC,Finance
+837,MDNA,
+838,NVMI,Capital Goods
+839,UNB,Finance
+840,MTEM,Health Care
+841,KRYS,Health Care
+842,ARDX,Health Care
+843,LBC,Finance
+844,IVAC,
+845,DTEA,
+846,BILI,Technology
+847,LIND,
+848,BLRX,Health Care
+849,VSEC,
+850,PNNT,Finance
+851,GABC,Finance
+852,SYPR,Capital Goods
+853,BIMI,Health Care
+854,REG,Consumer Services
+855,LLL,Consumer Non-Durables
+856,CASY,Consumer Services
+857,NWS,Consumer Services
+858,SPWH,Consumer Services
+859,ALBO,Health Care
+860,LSXMK,Consumer Services
+861,KURA,Health Care
+862,AEHR,Capital Goods
+863,ZIXI,Technology
+864,MDLZ,Consumer Non-Durables
+865,VOXX,Consumer Non-Durables
+866,BKNG,Transportation
+867,IEP,
+868,FLUX,Capital Goods
+869,RCEL,Health Care
+870,CTRE,Consumer Services
+871,TRVG,Technology
+872,SBSI,Finance
+873,DOGZ,Consumer Durables
+874,UVSP,Finance
+875,GMAB,Health Care
+876,ZBRA,Technology
+877,PBCTP,Finance
+878,PLAY,Consumer Services
+879,XEL,Public Utilities
+880,BTCS,Finance
+881,LX,Finance
+882,GECC,Finance
+883,TACO,Consumer Services
+884,LTBR,Miscellaneous
+885,AMSF,Finance
+886,PDCO,Health Care
+887,WDAY,Technology
+888,OCSL,Finance
+889,MESO,Health Care
+890,CYBR,Technology
+891,AEY,Capital Goods
+892,FCRD,Finance
+893,MGIC,Technology
+894,CRSP,Health Care
+895,VNDA,Health Care
+896,GROM,
+897,CERN,Health Care
+898,TANH,Basic Industries
+899,RKDA,Basic Industries
+900,MPB,Finance
+901,QURE,Health Care
+902,CYBE,Capital Goods
+903,CUTR,Health Care
+904,CYTH,Health Care
+905,WVFC,Finance
+906,WMPN,Finance
+907,HTGM,Capital Goods
+908,TCBI,Finance
+909,XRAY,Health Care
+910,ACGL,Finance
+911,STAA,Health Care
+912,BJRI,Consumer Services
+913,BFIN,Finance
+914,YY,Technology
+915,ACHC,Health Care
+916,YTRA,
+917,EVOL,Technology
+918,SBT,Finance
+919,JBLU,Transportation
+920,VRNS,Technology
+921,LAMR,Consumer Services
+922,TCON,Health Care
+923,HCKT,Technology
+924,TTNP,Health Care
+925,PTSI,Transportation
+926,RUTH,Consumer Services
+927,HWC,Finance
+928,IRTC,Health Care
+929,CPSS,Finance
+930,NBRV,Health Care
+931,PFLT,Finance
+932,HTHT,Consumer Services
+933,FAST,
+934,CLBK,Finance
+935,ATHX,Health Care
+936,MRKR,Health Care
+937,NBSE,Health Care
+938,XBIO,Health Care
+939,FFWM,Finance
+940,OMEX,Consumer Services
+941,DBX,Technology
+942,GRVY,Miscellaneous
+943,MLAB,Capital Goods
+944,KSPN,Consumer Services
+945,WHLR,Consumer Services
+946,HOPE,Finance
+947,VECO,Technology
+948,SMLR,Health Care
+949,THRY,Capital Goods
+950,ACER,Health Care
+951,BOMN,Technology
+952,TH,Energy
+953,FOSL,Consumer Non-Durables
+954,MEDP,Health Care
+955,JCS,Public Utilities
+956,FCEL,Public Utilities
+957,OSAT,Capital Goods
+958,SHEN,Public Utilities
+959,SANW,
+960,ATRA,Health Care
+961,GENE,Health Care
+962,CWCO,Public Utilities
+963,GRBK,Capital Goods
+964,QRTEB,Consumer Services
+965,SMTC,Technology
+966,CPTAG,Finance
+967,STX,Technology
+968,VIA,Public Utilities
+969,GNSS,Capital Goods
+970,LMNR,
+971,IKNX,Miscellaneous
+972,YORW,Public Utilities
+973,BSET,Consumer Durables
+974,PLBC,Finance
+975,KRMD,Health Care
+976,BPTH,Health Care
+977,DCPH,Health Care
+978,CDTX,Health Care
+979,ESQ,Finance
+980,IMMR,Technology
+981,BECN,Capital Goods
+982,USAP,Basic Industries
+983,NSEC,Finance
+984,LYL,Finance
+985,SLRC,Finance
+986,NWE,Public Utilities
+987,BBI,Health Care
+988,QMCO,Technology
+989,NVOS,Health Care
+990,KHC,Consumer Non-Durables
+991,RAIL,Capital Goods
+992,ARKR,Consumer Services
+993,WERN,Transportation
+994,PWOD,Finance
+995,CDNA,Health Care
+996,DORM,Capital Goods
+997,ROIC,Consumer Services
+998,BLU,
+999,AIRG,Technology
+1000,NVAX,Health Care
+1001,TITN,
+1002,SRCL,Public Utilities
+1003,IMTE,Consumer Non-Durables
+1004,PGEN,Health Care
+1005,TECH,Health Care
+1006,NVCR,Health Care
+1007,WKSP,Capital Goods
+1008,LINC,Miscellaneous
+1009,AUBN,Finance
+1010,TENX,Health Care
+1011,CDMO,Health Care
+1012,RDUS,Health Care
+1013,FUND,Finance
+1014,SIOX,Health Care
+1015,SILC,Technology
+1016,ICCC,Health Care
+1017,IMMP,Health Care
+1018,APEN,Health Care
+1019,LIVE,Capital Goods
+1020,FLWS,Consumer Services
+1021,HNNA,Finance
+1022,WPRT,Capital Goods
+1023,CHCI,Consumer Services
+1024,MSTR,Technology
+1025,LPTX,Health Care
+1026,BKCC,Finance
+1027,SKYW,Transportation
+1028,ANAB,Health Care
+1029,MDWD,Consumer Durables
+1030,NAVI,Finance
+1031,PLCE,Consumer Services
+1032,PTGX,Health Care
+1033,BTBT,Finance
+1034,JCTCF,
+1035,INPX,Technology
+1036,GYRO,Consumer Services
+1037,REFR,Capital Goods
+1038,AVDL,Health Care
+1039,IIVI,Capital Goods
+1040,DNLI,Health Care
+1041,ATSG,
+1042,CIDM,Consumer Services
+1043,BFST,Finance
+1044,ATRC,Health Care
+1045,ASTE,Capital Goods
+1046,VLGEA,Consumer Services
+1047,XNET,Technology
+1048,UEIC,Consumer Non-Durables
+1049,FAT,Consumer Services
+1050,ADI,Technology
+1051,JAN,Public Utilities
+1052,TZOO,Technology
+1053,ADBE,Technology
+1054,CYTK,Health Care
+1055,OTEX,
+1056,HMHC,Miscellaneous
+1057,SMMT,Consumer Durables
+1058,SNT,Capital Goods
+1059,AMEH,Health Care
+1060,CLAR,Consumer Non-Durables
+1061,OPT,Health Care
+1062,RIGL,Health Care
+1063,RYAAY,Transportation
+1064,VEON,Public Utilities
+1065,BANX,Finance
+1066,REPH,Health Care
+1067,TCOM,Miscellaneous
+1068,CDK,Technology
+1069,SAL,Finance
+1070,LCUT,Consumer Durables
+1071,NURO,Health Care
+1072,PSTI,Health Care
+1073,STLD,Basic Industries
+1074,CPRT,Miscellaneous
+1075,ACHV,Health Care
+1076,SMCI,Technology
+1077,CGRN,
+1078,TTMI,Technology
+1079,MRIN,Technology
+1080,BSQR,Technology
+1081,SCOR,Miscellaneous
+1082,TCMD,Health Care
+1083,CHI,Finance
+1084,WFCF,Technology
+1085,LQDT,Consumer Services
+1086,VIASP,Public Utilities
+1087,QNST,Technology
+1088,VQS,
+1089,TCBK,Finance
+1090,ULTA,
+1091,GILT,Technology
+1092,THRM,Capital Goods
+1093,FSBW,Finance
+1094,MEDS,
+1095,MGI,Miscellaneous
+1096,VC,Capital Goods
+1097,GLPI,Consumer Services
+1098,NEON,Capital Goods
+1099,CYCC,Health Care
+1100,VEV,Capital Goods
+1101,BOXL,Capital Goods
+1102,AQMS,Public Utilities
+1103,AXGN,Health Care
+1104,PDLB,
+1105,ACRX,Consumer Durables
+1106,HCSG,Health Care
+1107,OSUR,Health Care
+1108,FDUS,Finance
+1109,WTFC,Finance
+1110,QRTEA,Consumer Services
+1111,TXMD,Health Care
+1112,RBCN,Technology
+1113,AMPH,Health Care
+1114,LAZY,Consumer Services
+1115,GBDC,Finance
+1116,UBCP,Finance
+1117,ODP,Miscellaneous
+1118,PEP,Consumer Non-Durables
+1119,AERI,Health Care
+1120,IMBI,Consumer Services
+1121,NSIT,Technology
+1122,TGLS,Capital Goods
+1123,IFRX,Health Care
+1124,RARE,Health Care
+1125,FNCB,Finance
+1126,GMBL,Consumer Services
+1127,MOFG,Finance
+1128,SRTS,Health Care
+1129,ANAT,Finance
+1130,ABTX,Finance
+1131,ONCY,
+1132,SNDX,Health Care
+1133,DAKT,Capital Goods
+1134,HGEN,Health Care
+1135,COKE,Consumer Non-Durables
+1136,GCBC,Finance
+1137,EYPT,Health Care
+1138,RPD,Technology
+1139,APPN,Technology
+1140,QQQX,Finance
+1141,FRHC,Finance
+1142,PRQR,Health Care
+1143,LOB,Finance
+1144,MASI,Health Care
+1145,FBMS,Finance
+1146,VJET,Capital Goods
+1147,EGAN,Technology
+1148,ERYP,Health Care
+1149,ONVO,Health Care
+1150,FISI,Finance
+1151,ALNY,Health Care
+1152,WWD,Capital Goods
+1153,COST,Consumer Services
+1154,BIOC,Health Care
+1155,MSBI,Finance
+1156,HBCP,Finance
+1157,SBFG,Finance
+1158,BLPH,Health Care
+1159,GOOD,Consumer Services
+1160,MINDP,Capital Goods
+1161,EPAY,Technology
+1162,AYTU,Health Care
+1163,PLUS,Technology
+1164,PRPL,Consumer Durables
+1165,BGNE,Health Care
+1166,SLGL,Basic Industries
+1167,PERI,Technology
+1168,SELB,Health Care
+1169,QCOM,Technology
+1170,CARE,Finance
+1171,USWS,Energy
+1172,TRMB,Capital Goods
+1173,TGTX,Health Care
+1174,CASA,Technology
+1175,CENTA,
+1176,SPCB,Technology
+1177,CVGI,Capital Goods
+1178,MMSI,Health Care
+1179,MDXG,Health Care
+1180,ROST,Consumer Services
+1181,PIRS,Health Care
+1182,ICBK,Finance
+1183,FWBI,Health Care
+1184,BLKB,Technology
+1185,LMRKO,Consumer Services
+1186,JAKK,Consumer Non-Durables
+1187,SPNE,Health Care
+1188,MCRB,Health Care
+1189,MTRX,Consumer Services
+1190,LBTYA,Consumer Services
+1191,TWIN,Capital Goods
+1192,ONCT,Health Care
+1193,AUTO,Miscellaneous
+1194,ISIG,Technology
+1195,NCNA,Health Care
+1196,FRPH,Finance
+1197,GEG,Health Care
+1198,SGMS,Consumer Services
+1199,OMQS,Technology
+1200,CWBR,Health Care
+1201,NH,Health Care
+1202,RNWK,Technology
+1203,TSC,Finance
+1204,UNTY,Finance
+1205,HLG,Consumer Services
+1206,AXDX,Capital Goods
+1207,ATRO,Capital Goods
+1208,ECOL,Public Utilities
+1209,LAWS,Capital Goods
+1210,MIDD,Capital Goods
+1211,BCLI,Health Care
+1212,BCOR,Finance
+1213,AFMD,Health Care
+1214,KTOS,Consumer Non-Durables
+1215,SLP,Technology
+1216,KFFB,Finance
+1217,FTFT,Technology
+1218,MNTX,Consumer Durables
+1219,KELYB,Technology
+1220,BCTX,
+1221,AMED,Health Care
+1222,CULL,Finance
+1223,INFN,Public Utilities
+1224,ESPR,Health Care
+1225,PCRX,Health Care
+1226,PAHC,
+1227,DRIO,Health Care
+1228,XENT,Health Care
+1229,CPRX,Health Care
+1230,SFST,Finance
+1231,CLBS,Health Care
+1232,LOCO,Consumer Services
+1233,BSRR,Finance
+1234,HSON,Technology
+1235,ADMP,Health Care
+1236,APA,Energy
+1237,SNY,Health Care
+1238,OCFC,Finance
+1239,UBOH,Finance
+1240,BCML,Finance
+1241,IBKR,Finance
+1242,FFNW,Finance
+1243,OTRK,Health Care
+1244,IROQ,Finance
+1245,ADVM,Health Care
+1246,VRTS,Finance
+1247,SCWX,Technology
+1248,MIGI,Technology
+1249,REED,Consumer Non-Durables
+1250,CSX,Transportation
+1251,FFBC,Finance
+1252,DGICB,Finance
+1253,HEPA,Health Care
+1254,PGC,Finance
+1255,LIXT,Health Care
+1256,SNGX,Health Care
+1257,TRUE,
+1258,PFG,Finance
+1259,SPNS,Technology
+1260,CTSO,Health Care
+1261,RDNT,Health Care
+1262,MOGO,
+1263,GSIT,Technology
+1264,BLFS,Health Care
+1265,OPGN,Health Care
+1266,LMRKN,Consumer Services
+1267,CDXC,Consumer Durables
+1268,COHR,Capital Goods
+1269,AGEN,Health Care
+1270,ZION,Finance
+1271,ISEE,Health Care
+1272,PRGS,Technology
+1273,DZSI,Public Utilities
+1274,BYRN,Consumer Non-Durables
+1275,ENDP,Health Care
+1276,NCTY,Miscellaneous
+1277,EGLE,Transportation
+1278,EYEN,Health Care
+1279,IDRA,Health Care
+1280,BBQ,Consumer Services
+1281,MARA,Finance
+1282,DJCO,Consumer Services
+1283,CTHR,Consumer Non-Durables
+1284,OPRX,Health Care
+1285,BIOX,Basic Industries
+1286,GPP,
+1287,HBAN,Finance
+1288,IONS,Health Care
+1289,GTYH,Technology
+1290,MORN,Technology
+1291,EGBN,Finance
+1292,PBYI,Health Care
+1293,TEAM,Technology
+1294,GOOG,Technology
+1295,PLUG,Consumer Durables
+1296,SNPS,Technology
+1297,NMTC,Health Care
+1298,AREC,
+1299,SIVB,Finance
+1300,FWONA,Consumer Services
+1301,DXPE,Capital Goods
+1302,PRPO,Capital Goods
+1303,MCHX,Miscellaneous
+1304,NDSN,Capital Goods
+1305,BUSE,Finance
+1306,FULT,Finance
+1307,UTSI,Capital Goods
+1308,HBNC,Finance
+1309,CTIC,Health Care
+1310,NSSC,Miscellaneous
+1311,CDZI,Public Utilities
+1312,ICAD,Health Care
+1313,TILE,
+1314,BRCN,Basic Industries
+1315,AIHS,Finance
+1316,FNLC,Finance
+1317,TANNZ,Consumer Services
+1318,NOTV,Health Care
+1319,PRIM,Basic Industries
+1320,SBRA,Consumer Services
+1321,MODV,
+1322,OPHC,Finance
+1323,AGIO,Health Care
+1324,PLAB,Technology
+1325,LBTYB,Consumer Services
+1326,FLXS,Consumer Durables
+1327,TRUP,Health Care
+1328,MSVB,Finance
+1329,RVSB,Finance
+1330,DTSS,Technology
+1331,MVIS,Capital Goods
+1332,ZNGA,Technology
+1333,KPTI,Miscellaneous
+1334,IMCC,
+1335,CSWC,Finance
+1336,USLM,Energy
+1337,NTNX,Technology
+1338,RLMD,Health Care
+1339,AVGO,Technology
+1340,DYNT,Health Care
+1341,TRS,Technology
+1342,WSBC,Finance
+1343,TACT,Technology
+1344,REGN,Health Care
+1345,REDU,Miscellaneous
+1346,ADXS,Health Care
+1347,AMRN,Health Care
+1348,EXTR,Capital Goods
+1349,IRBT,
+1350,MLVF,Finance
+1351,WVVIP,Consumer Non-Durables
+1352,IRCP,Consumer Services
+1353,THFF,Finance
+1354,SFIX,Consumer Services
+1355,SANM,Technology
+1356,MRSN,Health Care
+1357,MBWM,Finance
+1358,CPHC,Consumer Services
+1359,AVID,Technology
+1360,CLNE,Public Utilities
+1361,GLPG,Health Care
+1362,FORR,Consumer Services
+1363,SLS,Health Care
+1364,FDBC,Finance
+1365,STBA,Finance
+1366,NKTR,Health Care
+1367,BMTC,Finance
+1368,EVBG,Technology
+1369,NYMTN,Consumer Services
+1370,FVE,Health Care
+1371,OTIC,Health Care
+1372,CPSI,Technology
+1373,KELYA,Technology
+1374,TTOO,Health Care
+1375,ASND,Health Care
+1376,GRWG,Consumer Services
+1377,WTRH,Technology
+1378,FSLR,Technology
+1379,SMBC,Finance
+1380,EXAS,Health Care
+1381,NNDM,Technology
+1382,XBIT,
+1383,AMGN,Health Care
+1384,VRME,Miscellaneous
+1385,LAND,Consumer Services
+1386,GEVO,Health Care
+1387,CPSH,
+1388,UNAM,Finance
+1389,CRIS,Health Care
+1390,FORD,
+1391,VIVO,Health Care
+1392,CREG,
+1393,OSBC,Finance
+1394,JKHY,Technology
+1395,ILPT,Consumer Services
+1396,ADAP,Health Care
+1397,ADP,Miscellaneous
+1398,GROW,Finance
+1399,CYAD,Health Care
+1400,BVXV,Health Care
+1401,RRGB,Consumer Services
+1402,NECB,Finance
+1403,FFBW,Finance
+1404,INSM,Health Care
+1405,ON,Technology
+1406,CNOB,Finance
+1407,AMPG,Capital Goods
+1408,DGICA,Finance
+1409,MTSI,Technology
+1410,LVO,Consumer Services
+1411,SEVN,Consumer Services
+1412,SWIR,Basic Industries
+1413,III,Technology
+1414,CAKE,Consumer Services
+1415,ABUS,
+1416,SNES,Basic Industries
+1417,SGLB,Technology
+1418,ALTO,Basic Industries
+1419,IDN,Technology
+1420,SLRX,Health Care
+1421,DMRC,Technology
+1422,USAK,Transportation
+1423,IOVA,Health Care
+1424,AIKI,Consumer Durables
+1425,TANNL,Consumer Services
+1426,GDEN,Consumer Services
+1427,BRAG,
+1428,PRFT,Technology
+1429,BYSI,Health Care
+1430,BBSI,Technology
+1431,CARG,
+1432,CTIB,Miscellaneous
+1433,SPWR,Technology
+1434,BANFP,Finance
+1435,SLDB,Health Care
+1436,NTUS,Health Care
+1437,SRNE,Health Care
+1438,SLGN,Consumer Durables
+1439,XTLB,Health Care
+1440,ORGO,Health Care
+1441,SECO,Miscellaneous
+1442,IMUX,Health Care
+1443,OBAS,Consumer Services
+1444,ZIVO,Health Care
+1445,BIOL,Health Care
+1446,UMPQ,Finance
+1447,KINS,Finance
+1448,CCEL,Health Care
+1449,BWFG,Finance
+1450,ALNA,Health Care
+1451,ABCM,Health Care
+1452,LILA,Consumer Services
+1453,WYNN,Consumer Services
+1454,SEAC,Technology
+1455,CHUY,Consumer Services
+1456,SYRS,Health Care
+1457,GAME,
+1458,TRMD,Consumer Services
+1459,LSXMB,Consumer Services
+1460,HGSH,Consumer Services
+1461,NAOV,Health Care
+1462,PLYA,Consumer Services
+1463,FBNC,Finance
+1464,AEHL,Capital Goods
+1465,OBLG,Technology
+1466,RUSHB,Consumer Services
+1467,COHU,Capital Goods
+1468,IDEX,Technology
+1469,NCBS,Finance
+1470,CDXS,Health Care
+1471,PRDO,Miscellaneous
+1472,KNSL,Finance
+1473,SPLK,Technology
+1474,TNDM,Health Care
+1475,RCKY,Consumer Non-Durables
+1476,CTSH,Technology
+1477,TRVN,Health Care
+1478,ICMB,Finance
+1479,CODA,Capital Goods
+1480,HMST,Finance
+1481,AMRK,Finance
+1482,AZPN,Technology
+1483,JYNT,
+1484,CWBC,Finance
+1485,OFS,Finance
+1486,NRBO,Health Care
+1487,WSBF,Finance
+1488,MU,Technology
+1489,CNNB,Finance
+1490,SOLO,Capital Goods
+1491,MKSI,Capital Goods
+1492,VFF,
+1493,SCVL,Consumer Services
+1494,IPWR,Capital Goods
+1495,LCNB,Finance
+1496,AEP,Public Utilities
+1497,DYAI,Health Care
+1498,EMCF,Finance
+1499,OVID,Health Care
+1500,ATRI,Health Care
+1501,ACRS,Health Care
+1502,CNCE,Health Care
+1503,AQB,
+1504,CUBA,Finance
+1505,WHLM,Miscellaneous
+1506,KALV,Health Care
+1507,HUT,
+1508,BANR,Finance
+1509,OPI,Consumer Services
+1510,NICK,
+1511,FARO,Capital Goods
+1512,KALA,Health Care
+1513,SVVC,Finance
+1514,XENE,
+1515,PTRS,Finance
+1516,RESN,Technology
+1517,NEWT,Finance
+1518,CDW,Technology
+1519,TFSL,Finance
+1520,BAND,Technology
+1521,ASML,Technology
+1522,INFI,Health Care
+1523,CNXN,Technology
+1524,TGA,
+1525,MGPI,
+1526,HFWA,Finance
+1527,ADMA,Health Care
+1528,OSS,Technology
+1529,BZUN,Consumer Services
+1530,TA,Consumer Services
+1531,TOUR,
+1532,CRDF,Health Care
+1533,AOSL,Technology
+1534,MERC,Basic Industries
+1535,Z,Miscellaneous
+1536,VIAC,Consumer Services
+1537,BL,Technology
+1538,RBNC,Finance
+1539,LMAT,Health Care
+1540,OSTK,Consumer Services
+1541,NWPX,Basic Industries
+1542,NBEV,Consumer Non-Durables
+1543,CYCCP,Health Care
+1544,URGN,Health Care
+1545,RYTM,Health Care
+1546,WTER,Consumer Non-Durables
+1547,CLWT,Consumer Durables
+1548,LMNL,
+1549,GDS,Technology
+1550,ONCS,Health Care
+1551,FRST,Finance
+1552,SWKH,Finance
+1553,IMOS,Technology
+1554,TANNI,Consumer Services
+1555,CMRX,Health Care
+1556,HWBK,Finance
+1557,AGFS,
+1558,LRCX,Technology
+1559,JAGX,Health Care
+1560,CHNR,Basic Industries
+1561,LIVN,Health Care
+1562,BBGI,Consumer Services
+1563,ICCH,Finance
+1564,APPS,Technology
+1565,BPMC,Health Care
+1566,RGP,Miscellaneous
+1567,TELL,Energy
+1568,RDVT,Technology
+1569,YVR,
+1570,PLXS,Technology
+1571,QTNT,Health Care
+1572,NWL,Consumer Non-Durables
+1573,SRAX,Technology
+1574,NVCN,
+1575,GSM,Basic Industries
+1576,OLLI,Consumer Services
+1577,ARGX,Health Care
+1578,ROKU,Consumer Services
+1579,OBCI,
+1580,BWEN,Capital Goods
+1581,NMTR,Health Care
+1582,MOSY,Technology
+1583,ZEAL,Health Care
+1584,BGCP,Finance
+1585,ONTX,Health Care
+1586,CSCW,
+1587,HEES,Technology
+1588,SRCE,Finance
+1589,FISV,Technology
+1590,LSXMA,Consumer Services
+1591,APPF,Technology
+1592,SPTN,Consumer Non-Durables
+1593,UHAL,Miscellaneous
+1594,LMB,Consumer Services
+1595,RDWR,Technology
+1596,CASS,Miscellaneous
+1597,NTWK,Technology
+1598,RDI,Consumer Services
+1599,CMPR,Consumer Services
+1600,RUSHA,Consumer Services
+1601,XOMA,Health Care
+1602,KLIC,Technology
+1603,CFBK,Finance
+1604,BIVI,Health Care
+1605,PBCT,Finance
+1606,WKHS,Capital Goods
+1607,DSWL,Consumer Non-Durables
+1608,AESE,Consumer Services
+1609,CXDO,Consumer Services
+1610,PFC,Finance
+1611,BKEPP,Energy
+1612,NTLA,Health Care
+1613,IIN,Health Care
+1614,KRNT,Capital Goods
+1615,ICLR,Health Care
+1616,UTHR,Health Care
+1617,SGMA,Technology
+1618,NATH,Consumer Services
+1619,CFMS,Health Care
+1620,ESEA,Transportation
+1621,LE,Consumer Services
+1622,HCM,Health Care
+1623,PDCE,Energy
+1624,CKPT,Health Care
+1625,BCBP,Finance
+1626,PTEN,Energy
+1627,BTCY,Health Care
+1628,CPTAL,Finance
+1629,HOFT,Consumer Durables
+1630,DBVT,Health Care
+1631,FSTR,Basic Industries
+1632,HON,Capital Goods
+1633,KAVL,Consumer Non-Durables
+1634,NWSA,Consumer Services
+1635,VIAV,Technology
+1636,EFSC,Finance
+1637,TTWO,Technology
+1638,ACST,
+1639,CERS,Health Care
+1640,SAMG,Finance
+1641,PSMT,Consumer Services
+1642,FORTY,Technology
+1643,GLDD,Capital Goods
+1644,ATEC,Health Care
+1645,MBCN,Finance
+1646,UG,Consumer Non-Durables
+1647,UIHC,Finance
+1648,PFBC,Finance
+1649,WAFD,Finance
+1650,CBAT,Capital Goods
+1651,GWGH,Finance
+1652,BOOM,
+1653,OXSQ,Finance
+1654,FWP,Health Care
+1655,JRJC,Finance
+1656,LANC,Consumer Non-Durables
+1657,EDSA,
+1658,SSKN,Health Care
+1659,KALU,Basic Industries
+1660,IRWD,Health Care
+1661,PSTV,Health Care
+1662,MGRC,Technology
+1663,INDT,Finance
+1664,XRX,Technology
+1665,BANF,Finance
+1666,VBIV,
+1667,AAPL,Technology
+1668,OMER,Health Care
+1669,INGN,Health Care
+1670,CGO,Finance
+1671,OPK,Health Care
+1672,BDSI,Health Care
+1673,ATHE,Health Care
+1674,SATS,Technology
+1675,INDB,Finance
+1676,FARM,Consumer Non-Durables
+1677,SOTK,Capital Goods
+1678,TSEM,Technology
+1679,CHW,Finance
+1680,CNTY,Consumer Services
+1681,TOWN,Finance
+1682,VRA,Consumer Non-Durables
+1683,EXLS,Technology
+1684,FTEK,Capital Goods
+1685,ADUS,Health Care
+1686,KFRC,Technology
+1687,TAOP,Technology
+1688,OXLCM,Finance
+1689,GRMN,Capital Goods
+1690,CIGI,
+1691,MBUU,Consumer Non-Durables
+1692,NEOG,Health Care
+1693,SSRM,
+1694,BCOV,Technology
+1695,KTCC,Technology
+1696,CGEN,Health Care
+1697,SMTI,Health Care
+1698,FLL,Consumer Services
+1699,MARPS,Energy
+1700,SHIP,Transportation
+1701,MNOV,Health Care
+1702,REGI,Basic Industries
+1703,DLTR,Consumer Services
+1704,HAS,Consumer Non-Durables
+1705,WORX,Health Care
+1706,VINO,Finance
+1707,CLVS,Health Care
+1708,TMUS,Public Utilities
+1709,NATI,Technology
+1710,SNFCA,Finance
+1711,CTRN,
+1712,NCMI,Technology
+1713,DTST,Technology
+1714,HIFS,Finance
+1715,WTFCM,Finance
+1716,LITE,Technology
+1717,GTBP,Health Care
+1718,SIMO,Technology
+1719,SINT,Health Care
+1720,BLIN,Technology
+1721,SGBX,Basic Industries
+1722,NTAP,Technology
+1723,RRR,Consumer Services
+1724,NOVN,Health Care
+1725,NBN,Finance
+1726,BWB,Finance
+1727,HIHO,Capital Goods
+1728,SELF,Consumer Services
+1729,PPIH,
+1730,PRPH,Health Care
+1731,PESI,Public Utilities
+1732,GALT,Health Care
+1733,CARV,Finance
+1734,BNFT,Technology
+1735,PNBK,Finance
+1736,LGND,Health Care
+1737,LPLA,Finance
+1738,ABMD,Health Care
+1739,CARA,Health Care
+1740,PLXP,Health Care
+1741,CSBR,Health Care
+1742,LPCN,Health Care
+1743,MCFT,Consumer Non-Durables
+1744,RADA,
+1745,LINK,Capital Goods
+1746,ALOT,Technology
+1747,QDEL,Health Care
+1748,ENOB,Health Care
+1749,ARCT,Health Care
+1750,ZKIN,Capital Goods
+1751,IPLDP,Public Utilities
+1752,WEYS,Consumer Non-Durables
+1753,MAYS,Consumer Services
+1754,ARCC,Finance
+1755,AROW,Finance
+1756,DMAC,
+1757,GOGL,Transportation
+1758,NSTG,Health Care
+1759,PRTG,Health Care
+1760,NTRA,Health Care
+1761,ISBC,Finance
+1762,DHIL,Finance
+1763,KIRK,Miscellaneous
+1764,ALRN,Health Care
+1765,CVBF,Finance
+1766,LULU,
+1767,SNCR,Technology
+1768,CHEF,Consumer Non-Durables
+1769,BRKR,Capital Goods
+1770,PAA,Energy
+1771,OPNT,Health Care
+1772,CVV,Technology
+1773,SOHU,Technology
+1774,BCDA,Health Care
+1775,HOMB,Finance
+1776,GBCI,Finance
+1777,MIND,Capital Goods
+1778,VYNT,Health Care
+1779,BHTG,Capital Goods
+1780,TTD,Technology
+1781,CLPT,Health Care
+1782,NRIM,Finance
+1783,OLB,Technology
+1784,AAOI,Technology
+1785,EAST,Consumer Non-Durables
+1786,AVNW,Capital Goods
+1787,MICT,Technology
+1788,CRTO,Technology
+1789,LARK,Finance
+1790,ASPU,Miscellaneous
+1791,RELI,Finance
+1792,STRL,Capital Goods
+1793,ACB,
+1794,MRCC,Finance
+1795,AVT,Technology
+1796,CBFV,Finance
+1797,BMRC,Finance
+1798,VREX,Health Care
+1799,TXRH,Consumer Services
+1800,SMID,Capital Goods
+1801,HQY,Health Care
+1802,SOHOB,Consumer Services
+1803,RETO,Capital Goods
+1804,PANW,Technology
+1805,SGC,
+1806,AATC,Capital Goods
+1807,RICK,Consumer Services
+1808,IMKTA,Consumer Services
+1809,FOXF,Consumer Non-Durables
+1810,HTLF,Finance
+1811,SCKT,Technology
+1812,MRNS,Health Care
+1813,EXEL,Health Care
+1814,OSIS,Capital Goods
+1815,SCHN,Basic Industries
+1816,AVTX,Health Care
+1817,MPWR,Technology
+1818,NEPT,
+1819,CBIO,Health Care
+1820,CNSL,Public Utilities
+1821,LMST,Finance
+1822,MITK,Technology
+1823,AVXL,Health Care
+1824,NYMX,Health Care
+1825,FSFG,Finance
+1826,SCPH,Health Care
+1827,FAMI,Consumer Non-Durables
+1828,OMP,Energy
+1829,MTP,Health Care
+1830,STRM,Technology
+1831,CGNX,Capital Goods
+1832,DGLY,Miscellaneous
+1833,HDSN,Basic Industries
+1834,CLSN,Health Care
+1835,POWL,Consumer Durables
+1836,INVA,Health Care
+1837,OXLC,Finance
+1838,FHB,Finance
+1839,AMTX,Energy
+1840,SSP,Consumer Services
+1841,MFIN,Finance
+1842,OBSV,Health Care
+1843,ERIE,Finance
+1844,SIFY,Consumer Services
+1845,SIEB,Finance
+1846,CALA,Health Care
+1847,SRPT,Health Care
+1848,PBHC,Finance
+1849,INM,
+1850,IMV,
+1851,ITIC,Finance
+1852,PBIP,Finance
+1853,WEN,Consumer Services
+1854,OPOF,Finance
+1855,PCH,Consumer Services
+1856,ALPP,Capital Goods
+1857,MACK,Health Care
+1858,RMNI,Technology
+1859,NMIH,Finance
+1860,ANIP,Health Care
+1861,LBAI,Finance
+1862,MOMO,Technology
+1863,FKWL,Public Utilities
+1864,CMCT,Consumer Services
+1865,ITRI,Capital Goods
+1866,NFLX,Consumer Services
+1867,UONEK,Consumer Services
+1868,ALGN,Health Care
+1869,RAND,Finance
+1870,FLEX,Technology
+1871,AEMD,Miscellaneous
+1872,TNXP,Health Care
+1873,ZLAB,Health Care
+1874,DSKE,
+1875,BELFA,Capital Goods
+1876,CCMP,Technology
+1877,SBNY,Finance
+1878,WINA,Miscellaneous
+1879,WSC,Technology
+1880,BHF,Finance
+1881,ARCB,Transportation
+1882,FITB,Finance
+1883,ELTK,Technology
+1884,EML,Capital Goods
+1885,PPBI,Finance
+1886,TEDU,Miscellaneous
+1887,DMLP,Energy
+1888,WINT,Health Care
+1889,SIRI,Consumer Services
+1890,SBAC,Consumer Services
+1891,PTC,Technology
+1892,PRTS,Consumer Services
+1893,FWRD,Transportation
+1894,FENC,
+1895,CSIQ,
+1896,NXGN,Health Care
+1897,NTRB,Health Care
+1898,MATW,
+1899,OPTN,Health Care
+1900,UCTT,Technology
+1901,GOGO,Consumer Services
+1902,PNFP,Finance
+1903,WNEB,Finance
+1904,JJSF,Consumer Non-Durables
+1905,CAAS,Capital Goods
+1906,SYNL,Basic Industries
+1907,HRZN,Finance
+1908,CZWI,Finance
+1909,COLL,Health Care
+1910,ALRM,Technology
+1911,WIX,Technology
+1912,ARWR,Health Care
+1913,CAMP,Consumer Services
+1914,GBT,Health Care
+1915,FUSB,Finance
+1916,XFOR,Health Care
+1917,PKBK,Finance
+1918,SYBX,Health Care
+1919,INO,Health Care
+1920,CVLY,Finance
+1921,HURC,Basic Industries
+1922,SMSI,Technology
+1923,SPI,Technology
+1924,GNTY,Finance
+1925,RNST,Finance
+1926,HMTV,Consumer Services
+1927,FANG,Energy
+1928,OVLY,Finance
+1929,CRVS,Health Care
+1930,TAIT,Technology
+1931,TCPC,Finance
+1932,KMDA,Health Care
+1933,SSTI,Technology
+1934,CNET,Technology
+1935,MNRO,
+1936,FMBI,Finance
+1937,BCRX,Health Care
+1938,ACLS,Technology
+1939,SCHL,Consumer Services
+1940,SMED,Public Utilities
+1941,TMDI,
+1942,CENX,Basic Industries
+1943,PCTY,Technology
+1944,MBII,Basic Industries
+1945,MRLN,Finance
+1946,SGA,Consumer Services
+1947,STKL,
+1948,ETSY,Consumer Services
+1949,SASR,Finance
+1950,HTLD,Transportation
+1951,BATRA,Consumer Services
+1952,TCX,Technology
+1953,EFOI,Consumer Durables
+1954,TBK,Finance
+1955,FMBH,Finance
+1956,CRNT,Technology
+1957,AMBA,Technology
+1958,QRHC,Capital Goods
+1959,ATOS,Health Care
+1960,HTBX,Health Care
+1961,DHC,Consumer Services
+1962,ATAX,Finance
+1963,PHIO,Health Care
+1964,BMRA,Health Care
+1965,MAR,Consumer Services
+1966,EVFM,Health Care
+1967,AMNB,Finance
+1968,CHSCP,Consumer Non-Durables
+1969,FB,Technology
+1970,MGNI,Technology
+1971,VBTX,Finance
+1972,MNDT,Technology
+1973,LMFA,Finance
+1974,VERI,Technology
+1975,EXPO,Consumer Services
+1976,KE,Capital Goods
+1977,NLOK,Technology
+1978,VUZI,Capital Goods
+1979,OCX,Health Care
+1980,GNTX,Capital Goods
+1981,CALB,Finance
+1982,ANGO,Health Care
+1983,TWNK,Consumer Non-Durables
+1984,SIGI,Finance
+1985,GASS,Transportation
+1986,FRTA,
+1987,DFFN,Health Care
+1988,BNTC,Health Care
+1989,NEO,Health Care
+1990,SGEN,Health Care
+1991,COLM,Consumer Non-Durables
+1992,CONE,Consumer Services
+1993,ENVB,Health Care
+1994,LKQ,Capital Goods
+1995,SUNW,Technology
+1996,AUID,Technology
+1997,SGRP,Miscellaneous
+1998,KIDS,Health Care
+1999,LIFE,Health Care
+2000,PYR,
+2001,RSSS,Technology
+2002,BELFB,Capital Goods
+2003,ALJJ,Miscellaneous
+2004,AUDC,Public Utilities
+2005,MDGS,Health Care
+2006,JOUT,Consumer Non-Durables
+2007,BKSC,Finance
+2008,SREV,Technology
+2009,SEEL,Health Care
+2010,BLUE,Health Care
+2011,MTBC,Health Care
+2012,GVP,Technology
+2013,PLSE,Health Care
+2014,ENG,Consumer Services
+2015,UONE,Consumer Services
+2016,ACGLO,Finance
+2017,AGYS,Technology
+2018,AGTC,Health Care
+2019,ITRN,Technology
+2020,EBTC,Finance
+2021,ROCK,
+2022,PRTA,Health Care
+2023,OLED,Technology
+2024,SUNS,Finance
+2025,PBPB,Consumer Services
+2026,GOOGL,Technology
+2027,RCM,Consumer Services
+2028,GAIN,Finance
+2029,PMD,Health Care
+2030,COMM,Technology
+2031,ZYNE,Health Care
+2032,LEDS,Technology
+2033,BLNK,Miscellaneous
+2034,PNRG,Energy
+2035,RAVE,Consumer Services
+2036,AGLE,Health Care
+2037,FCNCA,Finance
+2038,QTRX,Health Care
+2039,EPSN,
+2040,ABST,
+2041,PAYX,Miscellaneous
+2042,EHTH,Finance
+2043,BOSC,Technology
+2044,ESCA,Consumer Non-Durables
+2045,AMWD,Consumer Durables
+2046,VYNE,Health Care
+2047,GLNG,Energy
+2048,ILMN,Health Care
+2049,LXRX,Health Care
+2050,ATXI,Consumer Durables
+2051,GLBS,Transportation
+2052,ACTG,Miscellaneous
+2053,GPRO,Miscellaneous
+2054,SCSC,Technology
+2055,HALO,Health Care
+2056,ASPS,Finance
+2057,AAL,Transportation
+2058,HZNP,Health Care
+2059,MYRG,Basic Industries
+2060,INOD,Technology
+2061,MRAM,Technology
+2062,XLNX,Technology
+2063,POLA,Capital Goods
+2064,FCBC,Finance
+2065,SP,Miscellaneous
+2066,HTBK,Finance
+2067,CETXP,Technology
+2068,HAYN,
+2069,ACMR,Technology
+2070,PFIS,Finance
+2071,MTBCP,Health Care
+2072,SSNC,Technology
+2073,BCPC,Basic Industries
+2074,VWTR,Public Utilities
+2075,LSTR,Transportation
+2076,HQI,Technology
+2077,GIFI,Energy
+2078,PFIE,Energy
+2079,SSNT,Technology
+2080,GIGM,Technology
+2081,CELC,Health Care
+2082,CRAI,Miscellaneous
+2083,PACW,Finance
+2084,TTEK,Consumer Services
+2085,TTGT,
+2086,SMIT,Capital Goods
+2087,NWBI,Finance
+2088,QUBT,Technology
+2089,POOL,Consumer Non-Durables
+2090,PMTS,Finance
+2091,MGYR,Finance
+2092,AMOT,Capital Goods
+2093,PATI,Transportation
+2094,CZR,Consumer Services
+2095,AAON,Capital Goods
+2096,CRWS,Basic Industries
+2097,GT,Consumer Durables
+2098,FFIV,Technology
+2099,CNDT,Technology
+2100,SAGE,Health Care
+2101,CINF,Finance
+2102,JD,Miscellaneous
+2103,VNOM,Energy
+2104,MKTX,Finance
+2105,FOLD,Health Care
+2106,BLCM,Health Care
+2107,CAMT,Capital Goods
+2108,RDIB,Consumer Services
+2109,RMBL,Capital Goods
+2110,ERIC,Technology
+2111,COCP,Health Care
+2112,AKTX,Health Care
+2113,HEXO,
+2114,SYNH,Health Care
+2115,SNOA,Health Care
+2116,PRAA,Technology
+2117,SENEA,Consumer Non-Durables
+2118,PKOH,Capital Goods
+2119,PME,
+2120,CMTL,Technology
+2121,PXS,Transportation
+2122,DISCB,Consumer Services
+2123,CCOI,Consumer Services
+2124,ORLY,Consumer Services
+2125,ZYXI,Health Care
+2126,FLDM,Capital Goods
+2127,NRC,Health Care
+2128,APTO,
+2129,LWLG,Consumer Non-Durables
+2130,OXSQL,
+2131,APWC,Basic Industries
+2132,SPRO,Health Care
+2133,NODK,Finance
+2134,PETZ,Consumer Non-Durables
+2135,NMRD,Health Care
+2136,SISI,Consumer Durables
+2137,HNRG,Energy
+2138,ABEO,Health Care
+2139,WING,Consumer Services
+2140,HLIO,Capital Goods
+2141,EKSO,Health Care
+2142,SLNG,Public Utilities
+2143,ARAY,Health Care
+2144,FRBK,Finance
+2145,PTE,Consumer Durables
+2146,RMR,Finance
+2147,FIVN,Technology
+2148,CATC,Finance
+2149,ARNA,Health Care
+2150,FIZZ,Consumer Non-Durables
+2151,BFI,Consumer Services
+2152,CCLP,Energy
+2153,NCSM,Energy
+2154,NTRS,Finance
+2155,WETF,Finance
+2156,FLGT,Health Care
+2157,AGNCN,Consumer Services
+2158,AEYE,Technology
+2159,AINV,Finance
+2160,GSBC,Finance
+2161,NTGR,Public Utilities
+2162,USEG,Energy
+2163,MVBF,Finance
+2164,EEFT,Technology
+2165,DOOO,
+2166,DCTH,Health Care
+2167,MANH,Technology
+2168,APOG,
+2169,XAIR,
+2170,UFPI,Basic Industries
+2171,NMFC,Finance
+2172,IMGN,Health Care
+2173,FIBK,Finance
+2174,SAFT,Finance
+2175,FXNC,Finance
+2176,INVE,Technology
+2177,INTZ,Miscellaneous
+2178,AXON,Consumer Non-Durables
+2179,OVBC,Finance
+2180,WDFC,Basic Industries
+2181,EDAP,Health Care
+2182,DRTT,
+2183,GBOX,Technology
+2184,FFIC,Finance
+2185,MRTX,Health Care
+2186,PATK,Consumer Services
+2187,HALL,Finance
+2188,OFIX,Health Care
+2189,RELL,Technology
+2190,VIRT,Finance
+2191,PACB,Capital Goods
+2192,BOKF,Finance
+2193,ATY,
+2194,VRDN,Health Care
+2195,VIRC,Consumer Durables
+2196,CRBP,Health Care
+2197,TSCO,Consumer Services
+2198,CIVB,Finance
+2199,ACBI,Finance
+2200,EVGN,Basic Industries
+2201,TSBK,Finance
+2202,MBIN,Finance
+2203,LBRDK,Consumer Services
+2204,MEOH,
+2205,HSKA,
+2206,HST,Consumer Services
+2207,ZIONP,Finance
+2208,GNCA,Health Care
+2209,PCTI,Technology
+2210,ATLO,Finance
+2211,HSII,Technology
+2212,JBHT,Transportation
+2213,EVLMC,Finance
+2214,IESC,Capital Goods
+2215,VLYPO,Finance
+2216,PZZA,Consumer Services
+2217,OTLK,Health Care
+2218,CCD,Finance
+2219,EDUC,Consumer Services
+2220,MBIO,Health Care
+2221,TSLA,Capital Goods
+2222,QIPT,Capital Goods
+2223,PI,Public Utilities
+2224,PCYO,Public Utilities
+2225,UNIT,Consumer Services
+2226,HTBI,Finance
+2227,KXIN,Finance
+2228,ACAD,Health Care
+2229,ARTNA,Public Utilities
+2230,MAT,Consumer Non-Durables
+2231,OZK,Finance
+2232,CLIR,Technology
+2233,VERO,Health Care
+2234,MGNX,Health Care
+2235,METC,Energy
+2236,AAME,Finance
+2237,MRTN,Transportation
+2238,WATT,Capital Goods
+2239,WTBA,Finance
+2240,DLPN,
+2241,LSBK,Finance
+2242,AVCT,Technology
+2243,CLSK,Technology
+2244,HX,Finance
+2245,POWI,Technology
+2246,SSB,Finance
+2247,EXPI,Finance
+2248,CLRO,Technology
+2249,ANDE,Consumer Non-Durables
+2250,SNBR,Consumer Durables
+2251,EBMT,Finance
+2252,VTRS,Consumer Durables
+2253,TRST,Finance
+2254,IART,Health Care
+2255,ANGI,Technology
+2256,UMBF,Finance
+2257,RDFN,Finance
+2258,NHTC,Miscellaneous
+2259,UCBI,Finance
+2260,COOP,Finance
+2261,SENEB,Consumer Non-Durables
+2262,LRFC,Finance
+2263,ABIO,Health Care
+2264,AKBA,Health Care
+2265,DISCA,Consumer Services
+2266,DXYN,Consumer Durables
+2267,FRME,Finance
+2268,AKAM,Miscellaneous
+2269,CTMX,Health Care
+2270,ISUN,Technology
+2271,VSAT,Technology
+2272,LILAK,Consumer Services
+2273,IMRN,Health Care
+2274,NSYS,Capital Goods
+2275,FRAF,Finance
+2276,EWBC,Finance
