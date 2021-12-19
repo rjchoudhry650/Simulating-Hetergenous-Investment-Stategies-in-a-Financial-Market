@@ -1,5 +1,5 @@
-# Stock_Market_Simulation
-This is a simulation of a financial market for the purposes of testing heterogeneous investment strategies via agent based simulation. 
+# Using Agent Based Modeling to Simulate Hetergeneity in Investment Strategies in a Financial Market
+This is a simulation of a financial market for the purposes of modeling heterogeneous investment strategies via agent based simulation. 
 Price variation is derived in a combination of stochastic and LSTM extrapolation from historical price data. The simulation looks at the performance of 5 trader archetypes: Rational, Day Trader, Trend Investor, Bayesian Trader, and Pessimistic. These traders make unique buying and selling decisions over a basket of 500 extrapolated price histories, selected from a possible lot of 2800 extrapolations. Prices functions as a combinations of LSTM derived extrapolation from real world price histories, and stochastic variation in the form of individual share price variation and exogenous market shocks, i.e. economic events.
 
 ## How To Run
